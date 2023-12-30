@@ -1,1 +1,2 @@
-# MZS_Mine-imatorChineseLanguiagePack
+# Mine-imator Chinese Languiage Pack Translation Project  --By MZS
+# Mine-imator中文语言包翻译计划MZS
